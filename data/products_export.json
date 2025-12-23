@@ -1,0 +1,161 @@
+[
+{"id":201341,"product_name":"Красные розы","base_price":25,"description":"11 красных роз в элегантной упаковке","product_image":"roses_red.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201342,"product_name":"Ромашковое поле","base_price":18.5,"description":"Букет из белых ромашек с зеленью","product_image":"daisies.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201343,"product_name":"Тюльпаны весны","base_price":22,"description":"Разноцветные тюльпаны в подарочной упаковке","product_image":"tulips.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201344,"product_name":"Орхидея элеганс","base_price":35,"description":"Изысканная орхидея в керамическом горшке","product_image":"orchid.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201345,"product_name":"Летний микс","base_price":28.5,"description":"Смешанный букет из сезонных цветов","product_image":"summer_mix.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201346,"product_name":"Розовые пионы","base_price":32,"description":"Нежные пионы в пастельной упаковке","product_image":"peonies.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201347,"product_name":"Экзотический рай","base_price":45,"description":"Экзотические цветы для особого случая","product_image":"exotic.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201348,"product_name":"Свадебный букет","base_price":55,"description":"Белые лилии и розы для невесты","product_image":"wedding.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201349,"product_name":"Герберы радости","base_price":20,"description":"Яркие герберы для поднятия настроения","product_image":"gerbera.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201350,"product_name":"Лавандовые грезы","base_price":26.5,"description":"Букет лаванды с сухоцветами","product_image":"lavender.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201351,"product_name":"Красные Розы премиум класса","base_price":99.69,"description":"Идеальный подарок для любимых","product_image":"random_1.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201352,"product_name":"Белые Тюльпаны для особого случая","base_price":100.98,"description":"Профессиональная флористика","product_image":"random_2.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201353,"product_name":"Розовые Лилии элитные","base_price":88.45,"description":"Эксклюзивная композиция","product_image":"random_3.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201354,"product_name":"Желтые Хризантемы отборные","base_price":96.57,"description":"Свежесрезанные цветы с доставкой","product_image":"random_4.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201355,"product_name":"Оранжевые Герберы свежие","base_price":86.94,"description":"Идеальный подарок для любимых","product_image":"random_5.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201356,"product_name":"Фиолетовые Пионы в корзине","base_price":29.08,"description":"Профессиональная флористика","product_image":"random_6.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201357,"product_name":"Синие Орхидеи премиум класса","base_price":88.31,"description":"Эксклюзивная композиция","product_image":"random_7.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201358,"product_name":"Кремовые Ирисы для особого случая","base_price":76.25,"description":"Свежесрезанные цветы с доставкой","product_image":"random_8.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201359,"product_name":"Персиковые Нарциссы элитные","base_price":66.88,"description":"Идеальный подарок для любимых","product_image":"random_9.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201360,"product_name":"Многоцветные Гиацинты отборные","base_price":116.44,"description":"Профессиональная флористика","product_image":"random_10.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201361,"product_name":"Красные Гвоздики свежие","base_price":62.99,"description":"Эксклюзивная композиция","product_image":"random_11.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201362,"product_name":"Белые Фрезии в корзине","base_price":73.04,"description":"Свежесрезанные цветы с доставкой","product_image":"random_12.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201363,"product_name":"Розовые Альстромерии премиум класса","base_price":92.5,"description":"Идеальный подарок для любимых","product_image":"random_13.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201364,"product_name":"Желтые Анемоны для особого случая","base_price":64.67,"description":"Профессиональная флористика","product_image":"random_14.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201365,"product_name":"Оранжевые Ранункулюсы элитные","base_price":105.58,"description":"Эксклюзивная композиция","product_image":"random_15.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201366,"product_name":"Фиолетовые Эустомы отборные","base_price":98.81,"description":"Свежесрезанные цветы с доставкой","product_image":"random_16.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201367,"product_name":"Синие Протеи свежие","base_price":62.78,"description":"Идеальный подарок для любимых","product_image":"random_17.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201368,"product_name":"Кремовые Гортензии в корзине","base_price":111.68,"description":"Профессиональная флористика","product_image":"random_18.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201369,"product_name":"Персиковые Астры премиум класса","base_price":76.62,"description":"Эксклюзивная композиция","product_image":"random_19.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201370,"product_name":"Многоцветные Подсолнухи для особого случая","base_price":40.23,"description":"Свежесрезанные цветы с доставкой","product_image":"random_20.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201371,"product_name":"Красные Розы элитные","base_price":26.72,"description":"Идеальный подарок для любимых","product_image":"random_21.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201372,"product_name":"Белые Тюльпаны отборные","base_price":108.5,"description":"Профессиональная флористика","product_image":"random_22.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201373,"product_name":"Розовые Лилии свежие","base_price":22.47,"description":"Эксклюзивная композиция","product_image":"random_23.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201374,"product_name":"Желтые Хризантемы в корзине","base_price":119.37,"description":"Свежесрезанные цветы с доставкой","product_image":"random_24.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201375,"product_name":"Оранжевые Герберы премиум класса","base_price":64.02,"description":"Идеальный подарок для любимых","product_image":"random_25.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201376,"product_name":"Фиолетовые Пионы для особого случая","base_price":77.45,"description":"Профессиональная флористика","product_image":"random_26.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201377,"product_name":"Синие Орхидеи элитные","base_price":102.89,"description":"Эксклюзивная композиция","product_image":"random_27.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201378,"product_name":"Кремовые Ирисы отборные","base_price":87.41,"description":"Свежесрезанные цветы с доставкой","product_image":"random_28.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201379,"product_name":"Персиковые Нарциссы свежие","base_price":106.15,"description":"Идеальный подарок для любимых","product_image":"random_29.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201380,"product_name":"Многоцветные Гиацинты в корзине","base_price":20.51,"description":"Профессиональная флористика","product_image":"random_30.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201381,"product_name":"101 красная роза - символ любви","base_price":149.99,"description":"Роскошный букет из 101 красной розы для самого особого случая [Розы]","product_image":"thematic_31.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201382,"product_name":"Королевские розы в шляпной коробке","base_price":89.5,"description":"25 элитных роз в элегантной шляпной коробке с декором [Розы]","product_image":"thematic_32.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201383,"product_name":"Романтические розы для пары","base_price":65,"description":"11 роз - символ вечной любви и верности [Розы]","product_image":"thematic_33.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201384,"product_name":"Мини-букет роз с эвкалиптом","base_price":35.99,"description":"7 роз с веточками эвкалипта в крафтовой бумаге [Розы]","product_image":"thematic_34.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201385,"product_name":"Радужные розы - эксклюзив","base_price":120,"description":"Разноцветные розы, окрашенные по уникальной технологии [Розы]","product_image":"thematic_35.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201386,"product_name":"Свадебный букет невесты \"Нежность\"","base_price":180,"description":"Белые розы, пионы и орхидеи с кружевом [Свадебные]","product_image":"thematic_36.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201387,"product_name":"Букет подружки невесты \"Весна\"","base_price":95,"description":"Нежные пастельные пионы и ранункулюсы [Свадебные]","product_image":"thematic_37.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201388,"product_name":"Бутоньерка для жениха \"Элеганс\"","base_price":45,"description":"Миниатюрная композиция для лацкана пиджака [Свадебные]","product_image":"thematic_38.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201389,"product_name":"Свадебный декор стола \"Роскошь\"","base_price":250,"description":"Центральная композиция для свадебного банкета [Свадебные]","product_image":"thematic_39.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201390,"product_name":"Лепестки роз для церемонии","base_price":30,"description":"Красные лепестки роз для росписи или рассыпания [Свадебные]","product_image":"thematic_40.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201391,"product_name":"Свадебная арка \"Цветочный рай\"","base_price":350,"description":"Оформление арки живыми цветами [Свадебные]","product_image":"thematic_41.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201392,"product_name":"Новогодняя композиция \"Зима\"","base_price":110,"description":"Еловые ветки, шишки, красные розы и хлопок [Праздничные]","product_image":"thematic_42.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201393,"product_name":"8 марта - Весеннее настроение","base_price":75,"description":"Тюльпаны, мимоза, гиацинты и ирисы [Праздничные]","product_image":"thematic_43.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201394,"product_name":"День влюбленных \"Страсть\"","base_price":125,"description":"Красные розы, шоколад и шампанское [Праздничные]","product_image":"thematic_44.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201395,"product_name":"Пасхальная корзина \"Весна\"","base_price":85,"description":"Цветы, пасхальные яйца и декоративные элементы [Праздничные]","product_image":"thematic_45.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201396,"product_name":"День рождения \"Праздник\"","base_price":90,"description":"Яркие герберы, розы и воздушные шары [Праздничные]","product_image":"thematic_46.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201397,"product_name":"Новый год в офисе","base_price":150,"description":"Большая композиция для украшения офиса [Праздничные]","product_image":"thematic_47.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201398,"product_name":"Корпоративный подарок","base_price":120,"description":"Букет с фирменной лентой компании [Праздничные]","product_image":"thematic_48.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201399,"product_name":"Юбилейный букет \"Золотой\"","base_price":200,"description":"Роскошная композиция из желтых роз и орхидей [Особые случаи]","product_image":"thematic_49.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201400,"product_name":"Для мамы \"Нежность\"","base_price":85,"description":"Нежные пионы, розы и эустомы [Особые случаи]","product_image":"thematic_50.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201401,"product_name":"Для подруги \"Радость\"","base_price":65,"description":"Яркие и веселые герберы и подсолнухи [Особые случаи]","product_image":"thematic_51.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201402,"product_name":"Мужской букет \"Сила\"","base_price":95,"description":"Строгий букет в темных тонах с зеленью [Для мужчин]","product_image":"thematic_52.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201403,"product_name":"Бизнес-букет \"Успех\"","base_price":110,"description":"Солидная композиция для деловых партнеров [Для мужчин]","product_image":"thematic_53.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201404,"product_name":"Для начальника \"Уважение\"","base_price":130,"description":"Дорогие цветы в элегантном оформлении [Для мужчин]","product_image":"thematic_54.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201405,"product_name":"Выздоравливай скорее","base_price":70,"description":"Светлые нежные цветы для поднятия настроения [Особые случаи]","product_image":"thematic_55.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201406,"product_name":"Спасибо за помощь","base_price":80,"description":"Яркий букет в знак благодарности [Особые случаи]","product_image":"thematic_56.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201407,"product_name":"Для новорожденного \"Аист\"","base_price":75,"description":"Нежные пастельные цветы с игрушкой [Детские]","product_image":"thematic_57.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201408,"product_name":"Детский день рождения \"Радуга\"","base_price":60,"description":"Яркие разноцветные цветы с конфетами [Детские]","product_image":"thematic_58.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201409,"product_name":"Семейное торжество","base_price":140,"description":"Большая композиция для семейного праздника [Семейные]","product_image":"thematic_59.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201410,"product_name":"Годовщина свадьбы","base_price":160,"description":"Романтический букет по случаю годовщины [Семейные]","product_image":"thematic_60.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201411,"product_name":"Траурная корзина \"Память\"","base_price":130,"description":"Скромные и элегантные белые цветы [Траурные]","product_image":"thematic_61.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201412,"product_name":"Траурный венок \"Прощание\"","base_price":180,"description":"Цветочный венок с лентой [Траурные]","product_image":"thematic_62.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201413,"product_name":"Траурный букет \"Скорбь\"","base_price":95,"description":"Белые хризантемы и гвоздики [Траурные]","product_image":"thematic_63.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201414,"product_name":"Орхидея фаленопсис белая","base_price":55,"description":"Изысканная орхидея в керамическом горшке [Комнатные]","product_image":"thematic_64.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201415,"product_name":"Денежное дерево \"Богатство\"","base_price":45,"description":"Крассула - символ финансового благополучия [Комнатные]","product_image":"thematic_65.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201416,"product_name":"Фикус Бенджамина \"Элеганс\"","base_price":60,"description":"Красивое комнатное дерево для офиса [Комнатные]","product_image":"thematic_66.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201417,"product_name":"Спатифиллум \"Женское счастье\"","base_price":40,"description":"Цветок, приносящий счастье в дом [Комнатные]","product_image":"thematic_67.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201418,"product_name":"Экзотический микс \"Тропики\"","base_price":170,"description":"Редкие тропические цветы и растения [Экзотические]","product_image":"thematic_68.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201419,"product_name":"Протеи и эвкалипт \"Модерн\"","base_price":140,"description":"Модная флористическая композиция [Экзотические]","product_image":"thematic_69.jpg","is_active":1,"created_at":"2025-12-14"}
+,
+{"id":201420,"product_name":"Сухоцветы в вазе \"Винтаж\"","base_price":95,"description":"Композиция из сухоцветов в стиле прованс [Экзотические]","product_image":"thematic_70.jpg","is_active":1,"created_at":"2025-12-14"}
+]

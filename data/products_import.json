@@ -1,0 +1,18 @@
+[
+  {
+    "id": 201341,
+    "product_name": "Красные розы",
+    "base_price": 28.50,
+    "description": "11 красных роз в премиальной упаковке",
+    "product_image": "roses_red_premium.jpg",
+    "is_active": 1
+  },
+  {
+    "id": null,
+    "product_name": "Новый весенний букет",
+    "base_price": 45.00,
+    "description": "Свежая композиция с тюльпанами и гиацинтами",
+    "product_image": "spring_new.jpg",
+    "is_active": 1
+  }
+]
