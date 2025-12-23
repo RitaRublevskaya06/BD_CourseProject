@@ -1,8 +1,4 @@
--- ============================================
--- ТЕСТ С ПУСТОЙ КОРЗИНОЙ 56 (Волкова Ольга)
--- ============================================
-
--- 1. Очистим корзину (на всякий случай)
+-- 1. Очистим корзину
 BEGIN
     HEAD_ADMIN.USER_PACKAGE.PURGE_CART(56);
     DBMS_OUTPUT.PUT_LINE('Корзина 56 очищена');
@@ -27,7 +23,7 @@ END;
 /
 
 
--- ПРОСТОЙ ТЕСТ СОЗДАНИЯ ЗАКАЗА
+-- ТЕСТ СОЗДАНИЯ ЗАКАЗА
 DECLARE
     V_ORDER_ID NUMBER;
 BEGIN
@@ -47,7 +43,7 @@ END;
 /
 
 
--- Тестируем FIND_SHOP_BY_LOCATION
+-- Тест FIND_SHOP_BY_LOCATION
 DECLARE
     V_SHOP_ID NUMBER;
 BEGIN
@@ -63,4 +59,5 @@ BEGIN
         DBMS_OUTPUT.PUT_LINE('Результат: магазин не найден');
     END IF;
 END;
+
 /
